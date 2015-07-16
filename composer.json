@@ -1,0 +1,18 @@
+{
+    "name": "aelin-reed/wordpress-plugin-template",
+    "description": "WordPress Plugin Template",
+    "authors": [
+        {
+            "name": "Aelin Reed",
+            "email": "aelin.reed@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "classes/"
+        ]
+    },
+    "require": {
+        "twig/twig": "^1.18"
+    }
+}
