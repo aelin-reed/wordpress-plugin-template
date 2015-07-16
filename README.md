@@ -4,7 +4,7 @@ This project aims to provide a well structured elegant starting point for buildi
 #### Twig Templating Engine
 
 The plugin template uses the [Twig Templating Engine](http://twig.sensiolabs.org/) in an attempt to
-decouple HTML code from the action plugin implementation, therefore increasing code maintainability.
+decouple HTML code from the actual plugin implementation, therefore increasing code maintainability.
 
 #### Composer Autoloader
 
